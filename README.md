@@ -1,4 +1,4 @@
-# Hi there, I'm Madan Kalyan 👋 
+# Hi there, I'm Madan Thambisetty 👋 
 
 ### AI Engineer & Mobile Architect | Edge ML Specialist
 
