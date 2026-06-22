@@ -1,30 +1,105 @@
-# Hi there, I'm Madan Thambisetty 👋 
+# Hi, I'm Madan Thambisetty 👋
 
-### AI Engineer & Mobile Architect | Edge ML Specialist
+## Founder of Cirva AI | AI Engineer | Edge ML Specialist | Building Human-Centered AI Systems
 
-I am a specialized AI Engineer focusing on deploying highly optimized, low-latency machine learning models directly on edge devices. My work bridges the gap between state-of-the-art AI research and high-performance, real-time mobile applications.
+I am an AI Engineer focused on creating intelligent systems that bring advanced machine learning capabilities into real-world applications. My work focuses on the intersection of **Artificial Intelligence, Mobile Computing, and Human-Computer Interaction** — building efficient AI experiences that are fast, private, and accessible.
 
-## 🚀 Key Focus Areas
-- **Edge ML & On-Device Inference:** Optimizing Transformer architectures (like ONNX and PyTorch Lite) for strict memory and latency constraints on iOS/Android.
-- **Emotion AI & Sentiment Analysis:** Building robust SLMs (Small Language Models) for real-time conversational analysis, prioritizing user privacy through offline inference.
-- **Advanced Mobile Architecture:** Designing scalable React Native frameworks that seamlessly bridge heavy native C++ ML runtimes to the UI thread.
-- **Data Engineering:** Architecting synthetic data pipelines utilizing LLMs to solve minority class imbalances in specialized datasets.
-
-## 🏆 Featured Projects
-
-### [CIRVA AI Engine](https://github.com/madankalyan2211/cirva-ai-engine)
-A comprehensive architectural proof of a production-grade AI pipeline. Features custom PyTorch training loops, ONNX deployment strategies, and latency benchmarking for edge devices.
-
-### [AI Research Notes](https://github.com/madankalyan2211/ai-research-notes)
-A collection of my technical heuristics and research into model quantization (INT8), operator fusion, and LLM vs. SLM comparative studies for conversational AI.
-
-### [Mobile Architecture Proofs](https://github.com/madankalyan2211/cirva-mobile)
-Sanitized examples of my React Native architecture, demonstrating secure networking, custom hooks for edge ML execution, and advanced UI state management.
-
-## 🛠 Tech Stack
-**AI/ML:** PyTorch, ONNX Runtime, HuggingFace, Transformers, Python  
-**Mobile:** React Native, Expo, TypeScript, Native Modules  
-**Data & Cloud:** Synthetic Data Generation, Firebase, REST APIs  
+My primary interest is developing **context-aware and emotionally intelligent AI systems** that understand not only what users say, but also the intent, context, and meaning behind interactions.
 
 ---
-*“Optimizing intelligence for the edge, where privacy meets performance.”*
+
+## 🚀 Current Focus Areas
+
+### Edge AI & On-Device Machine Learning
+
+* Deploying optimized ML models on mobile and edge environments
+* Exploring model compression, quantization, and efficient inference
+* Working with lightweight transformer architectures for real-time applications
+
+### Human-Centered AI & Emotion Intelligence
+
+* Building AI systems that analyze conversational context
+* Exploring emotion, intent, and behavioral signals in communication
+* Designing privacy-first AI experiences through local inference
+
+### AI Application Architecture
+
+* Building scalable AI-powered mobile applications
+* Connecting ML pipelines with production mobile experiences
+* Designing efficient architectures for low-latency AI features
+
+### Data & Model Development
+
+* Creating data pipelines for AI experimentation
+* Exploring synthetic data generation techniques
+* Evaluating model performance, efficiency, and deployment constraints
+
+---
+
+# 🚀 Featured Work
+
+## CIRVA — Emotional Intelligence Layer for Communication
+
+CIRVA is an AI-driven communication system exploring how technology can better understand human conversations through emotional context, intent detection, and intelligent assistance.
+
+Areas of exploration:
+
+* Emotion understanding
+* Intent classification
+* Context-aware communication
+* Efficient AI inference pipelines
+
+---
+
+## AI Research & Engineering Notes
+
+A collection of my experiments and technical studies around:
+
+* Transformer optimization
+* Small Language Models (SLMs)
+* ONNX deployment
+* Quantized AI models
+* Edge inference strategies
+* AI system architecture
+
+---
+
+# 🛠 Technical Stack
+
+**AI / ML**
+
+* Python
+* PyTorch
+* ONNX Runtime
+* Hugging Face Transformers
+* Machine Learning
+* NLP
+
+**Mobile Development**
+
+* React Native
+* Expo
+* TypeScript
+* Mobile architecture
+* Native integrations
+
+**Backend & Cloud**
+
+* REST APIs
+* Firebase
+* Supabase
+* Cloud platforms
+
+---
+
+# 🎯 Engineering Philosophy
+
+I believe the future of AI is not only about larger models, but about building **efficient, personalized, and privacy-focused intelligence** that can work seamlessly in everyday life.
+
+> Optimizing intelligence for the edge, where privacy meets performance.
+
+---
+
+# 📫 Connect With Me
+
+Interested in AI, Edge ML, Human-Centered AI, and building the next generation of intelligent applications.
