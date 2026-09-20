@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/madankalyan2211"><img src="https://img.shields.io/github/followers/madankalyan2211?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://doi.org/10.5281/zenodo.22233081"><img src="https://img.shields.io/badge/Zenodo-AstraHeal%20Research-blue?logo=zenodo&logoColor=white" alt="Zenodo Publications"></a>
+  <a href="https://zenodo.org/search?q=Madan+Thambisetty"><img src="https://img.shields.io/badge/Zenodo-Author%20Dashboard-blue?logo=zenodo&logoColor=white" alt="Zenodo Author Dashboard"></a>
   <a href="https://www.linkedin.com/in/madan-thambisetty/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
@@ -65,4 +65,4 @@ A complete 4-part scientific research series introducing digital-twin counterfac
 - 🌐 **GitHub**: [@madankalyan2211](https://github.com/madankalyan2211)
 - 💼 **LinkedIn**: [Madan Thambisetty](https://www.linkedin.com/in/madan-thambisetty/)
 - 🎓 **Google Scholar**: [Madan Thambisetty](https://scholar.google.com/)
-- 📧 **Email**: Reach out via LinkedIn or GitHub profile contact
+- 📚 **Zenodo Publications**: [Madan Thambisetty on Zenodo](https://zenodo.org/search?q=Madan+Thambisetty)
